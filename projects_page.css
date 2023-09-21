@@ -1,0 +1,12 @@
+#photos{
+    margin-top: 10vh;
+    margin-left: 5vw;
+    max-width: 90vw;
+}
+
+#photo{
+    float: top;
+    padding: 6px 6px;
+    border-radius: 13px;
+    max-width: 40vw;
+}
