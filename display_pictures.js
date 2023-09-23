@@ -9,6 +9,6 @@ function displayPicture(name){
 }
 
 for (var i = 1; i <= amout_pictures; i++){
-    document.getElementById("photos").innerHTML += displayPicture("p" + 1)
+    document.getElementById("photos").innerHTML += displayPicture("p" + i)
 }
 
